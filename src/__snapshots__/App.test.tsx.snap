@@ -1,0 +1,185 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App matches snapshot 1`] = `
+<div
+  data-testid="app-root"
+>
+  <header
+    className="sc-bdnxRM jnVsTK"
+    data-testid="header"
+  >
+    <div
+      className="sc-gtsrHT jWdEKn"
+    >
+      Todo App
+    </div>
+  </header>
+  <main
+    className="sc-pNWdM hgPrSl"
+    data-testid="todo-list"
+  >
+    <div
+      className="sc-gKAaRy eruBWu"
+      data-testid="todo-item"
+    >
+      <label
+        className="sc-hKFxyN kxtYU sc-fujyAs jbNzwC"
+        data-testid="checkbox"
+      >
+        <input
+          checked={true}
+          className="sc-eCApnc kCTsEE"
+          onChange={[Function]}
+          readOnly={false}
+          type="checkbox"
+        />
+        <div
+          className="sc-jSFjdj ibnWIs"
+          data-testid="checkbox-label"
+        >
+          File 2020 Taxes
+        </div>
+      </label>
+      <time
+        className="sc-iCoGMd iqsebk"
+        data-tesid="todo-due-date"
+      >
+        03/10/2020
+      </time>
+    </div>
+    <div
+      className="sc-gKAaRy eruBWu"
+      data-testid="todo-item"
+    >
+      <label
+        className="sc-hKFxyN kxtYU sc-fujyAs jbNzwC"
+        data-testid="checkbox"
+      >
+        <input
+          checked={true}
+          className="sc-eCApnc kCTsEE"
+          onChange={[Function]}
+          readOnly={false}
+          type="checkbox"
+        />
+        <div
+          className="sc-jSFjdj ibnWIs"
+          data-testid="checkbox-label"
+        >
+          Fold laundry
+        </div>
+      </label>
+    </div>
+    <div
+      className="sc-gKAaRy klnoye"
+      data-testid="todo-item"
+    >
+      <label
+        className="sc-hKFxyN kxtYU sc-fujyAs wDCNW"
+        data-testid="checkbox"
+      >
+        <input
+          checked={false}
+          className="sc-eCApnc kCTsEE"
+          onChange={[Function]}
+          readOnly={false}
+          type="checkbox"
+        />
+        <div
+          className="sc-jSFjdj ibnWIs"
+          data-testid="checkbox-label"
+        >
+          Call Mom
+        </div>
+      </label>
+      <time
+        className="sc-iCoGMd iqsebk"
+        data-tesid="todo-due-date"
+      >
+        06/26/2020
+      </time>
+    </div>
+    <div
+      className="sc-gKAaRy euYuUz"
+      data-testid="todo-item"
+    >
+      <label
+        className="sc-hKFxyN kxtYU sc-fujyAs wDCNW"
+        data-testid="checkbox"
+      >
+        <input
+          checked={false}
+          className="sc-eCApnc kCTsEE"
+          onChange={[Function]}
+          readOnly={false}
+          type="checkbox"
+        />
+        <div
+          className="sc-jSFjdj ibnWIs"
+          data-testid="checkbox-label"
+        >
+          Walk the dog
+        </div>
+      </label>
+    </div>
+    <div
+      className="sc-gKAaRy klnoye"
+      data-testid="todo-item"
+    >
+      <label
+        className="sc-hKFxyN kxtYU sc-fujyAs wDCNW"
+        data-testid="checkbox"
+      >
+        <input
+          checked={false}
+          className="sc-eCApnc kCTsEE"
+          onChange={[Function]}
+          readOnly={false}
+          type="checkbox"
+        />
+        <div
+          className="sc-jSFjdj ibnWIs"
+          data-testid="checkbox-label"
+        >
+          Feed the cat
+        </div>
+      </label>
+      <time
+        className="sc-iCoGMd iqsebk"
+        data-tesid="todo-due-date"
+      >
+        06/24/2020
+      </time>
+    </div>
+    <div
+      className="sc-gKAaRy klnoye"
+      data-testid="todo-item"
+    >
+      <label
+        className="sc-hKFxyN kxtYU sc-fujyAs wDCNW"
+        data-testid="checkbox"
+      >
+        <input
+          checked={false}
+          className="sc-eCApnc kCTsEE"
+          onChange={[Function]}
+          readOnly={false}
+          type="checkbox"
+        />
+        <div
+          className="sc-jSFjdj ibnWIs"
+          data-testid="checkbox-label"
+        >
+          Run LA marathon
+        </div>
+      </label>
+      <time
+        className="sc-iCoGMd iqsebk"
+        data-tesid="todo-due-date"
+      >
+        03/21/2021
+      </time>
+    </div>
+  </main>
+</div>
+`;
